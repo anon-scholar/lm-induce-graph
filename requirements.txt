@@ -1,0 +1,18 @@
+# Deep learning and NLP libraries
+torch
+transformers
+datasets
+langchain
+langchain-community
+langchain-openai
+huggingface_hub
+accelerate
+bitsandbytes
+google-generativeai
+
+# Utilities
+click
+fuzzywuzzy
+pyvis
+jupyter
+python-dotenv
